@@ -11,9 +11,9 @@
     <div class="topo">
         <h1>Jardim botânico</h1>
     </div>
-    <div class="limitar-largura">
-        <div class="area-apresentacao">
-            <h2>Bem-vindo</h2>
+    <div class="limita-largura">
+        <div class="area apresentacao">
+            <h2> <span>Bem-vindo</span></h2>
 
             <img src="assets/img/head.jpg" alt="Jardim-botânico" title="Jardim-botânico">
 
@@ -28,9 +28,9 @@
                 Em ponto central no encontro das aléias, constitui-se numa das mais belas atrações do jardim. Fabricado na Inglaterra, é constituído por duas bacias. Na maior delas, quatro figuras representam a música, a poesia, a ciência e a arte. O chafariz foi originalmente instalado na Lapa até que, com a reformulação do Passeio Público (1905), foi instalado no jardim.
             </p>
         </div>
-        <div class="area-galeria">
+        <div class="area galeria">
             <h2>Galeria</h2>
-            <div class="galeria">
+            <div class="area-tres-imagens">
                 <img src="assets/img/1.jpg" alt="Imagens do jardim botânico 1">
                 <img src="assets/img/2.jpg" alt="Imagens do jardim botânico 2">
                 <img src="assets/img/3.jpg" alt="Imagens do jardim botânico 3">
@@ -38,7 +38,7 @@
         </div>
     </div>
     <div class="footer">
-        <span>Jardim-botânico - 2022 ©</span>
+        <span> Jardim-botânico - 2022 ©</span>
     </div>
 
 </body>
